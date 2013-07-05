@@ -19,7 +19,7 @@ This project base on LAMP(Linux, Apache, MySQL, PHP).
     **Attention!! DO NOT Create user and set password same as the config file**
 
 3.  Setting contestant's computer IP
-    * use each contestant's computer open web page `http:[server_ip]/printadmin/setteam.php`, enter team number then continue, server will auto save this computer IP.
+    * use each contestant's computer open web page `http://[server_ip]/printadmin/setteam.php`, enter team number then continue, server will auto save this computer IP.
 
 4.  Create the upload folder
     * Default upload folder at `/upload`, create the folder as same path.
